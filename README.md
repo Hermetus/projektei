@@ -1,4 +1,4 @@
-Sekalaisia projekteja.
+Sekalaisia projekteja. Vittu mikä työmaa.
 Tekijä: Heta Seinä
 
 Random projects.
