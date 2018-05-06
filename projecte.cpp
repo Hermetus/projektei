@@ -1,5 +1,5 @@
 // ProjectEuler.cpp : Defines the entry point for the console application.
-// ProjectEuler tehtävien ratkaisuyritelmiä
+// ProjectE. tehtävien ratkaisuyritelmiä
 // Aloitettu 4.5.2018
 
 #include <iostream>
@@ -17,7 +17,7 @@ int main()
 
 void problem1() {
 	//Problem 1.
-	//Multiples of 3 and 5
+	//2 ja 5 kertoimet
 	int sum = 0;
 	for (int i = 1; i != 1000; ++i) {
 		if (i % 3 == 0 or i % 5 == 0) {
@@ -29,7 +29,7 @@ void problem1() {
 
 void problem2() {
 	//Problem 2.
-	//Fibonacci's evens' sum
+	//Fibonaccin parillisten summa
 
 	int LIMIT = 4000000;
 
